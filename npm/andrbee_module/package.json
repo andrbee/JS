@@ -1,0 +1,22 @@
+{
+  "name": "andrbee_module",
+  "version": "1.0.0",
+  "description": "Первый модуль andrbee на Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andrbee/andrbee_module.git"
+  },
+  "keywords": [
+    "andrbee"
+  ],
+  "author": "Andrei Balashov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andrbee/andrbee_module/issues"
+  },
+  "homepage": "https://github.com/andrbee/andrbee_module#readme"
+}
